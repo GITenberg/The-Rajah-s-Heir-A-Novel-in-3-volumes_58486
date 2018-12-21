@@ -1,11 +1,16 @@
 _repo: The-Rajah-s-Heir-A-Novel-in-3-volumes_58486
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58486-h/images/cover.jpg
 creator:
   author:
     agent_name: Despard, Charlotte
     gutenberg_agent_id: '49892'
     url: http://www.gutenberg.org/2009/agents/49892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58486#The-Rajah-s-Heir-A-Novel-in-3-volumes
 gutenberg_issued: '2018-12-17'
 gutenberg_type: Text
 identifiers:
